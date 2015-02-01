@@ -1,0 +1,9 @@
+[submodule "state_machines"]
+	path = state_machines
+	url = git@github.com:state-machines/state_machines.git
+[submodule "state_machines-activemodel"]
+	path = state_machines-activemodel
+	url = git@github.com:state-machines/state_machines-activemodel.git
+[submodule "state_machines-activerecord"]
+	path = state_machines-activerecord
+	url = git@github.com:state-machines/state_machines-activerecord.git
