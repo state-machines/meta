@@ -1,2 +1,5 @@
 source 'https://rubygems.org'
 gem 'rake', '>= 10.3'
+gem 'state_machines' , path: './state_machines'
+gem 'state_machines-activemodel' , path: './state_machines-activemodel'
+gem 'state_machines-activerecord' , path: './state_machines-activerecord'
