@@ -7,3 +7,12 @@
 [submodule "state_machines-activerecord"]
 	path = state_machines-activerecord
 	url = git@github.com:state-machines/state_machines-activerecord.git
+[submodule "state_machines-graphviz"]
+	path = state_machines-graphviz
+	url = git@github.com:state-machines/state_machines-graphviz.git
+[submodule "state_machines-yard"]
+	path = state_machines-yard
+	url = git@github.com:state-machines/state_machines-yard.git
+[submodule "state_machines-audit_trail"]
+	path = state_machines-audit_trail
+	url = git@github.com:state-machines/state_machines-audit_trail.git
