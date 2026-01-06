@@ -16,3 +16,9 @@
 [submodule "state_machines-audit_trail"]
 	path = state_machines-audit_trail
 	url = git@github.com:state-machines/state_machines-audit_trail.git
+[submodule "state_machines-diagram"]
+	path = state_machines-diagram
+	url = git@github.com:state-machines/state_machines-diagram.git
+[submodule "state_machines-mermaid"]
+	path = state_machines-mermaid
+	url = git@github.com:state-machines/state_machines-mermaid.git
