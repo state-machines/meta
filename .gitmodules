@@ -22,3 +22,15 @@
 [submodule "state_machines-mermaid"]
 	path = state_machines-mermaid
 	url = git@github.com:state-machines/state_machines-mermaid.git
+[submodule "state-machines-rs"]
+	path = state-machines-rs
+	url = git@github.com:state-machines/state-machines-rs.git
+[submodule "state_machines-zig"]
+	path = state_machines-zig
+	url = git@github.com:state-machines/state_machines-zig.git
+[submodule "libstatemachines"]
+	path = libstatemachines
+	url = git@github.com:state-machines/libstatemachines.git
+[submodule "state_machines-rspec"]
+	path = state_machines-rspec
+	url = git@github.com:state-machines/state_machines-rspec.git
